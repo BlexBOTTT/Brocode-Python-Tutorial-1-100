@@ -1,0 +1,28 @@
+SCENE: UTOS gaming
+
+B: *playing  computer* 5 secs
+M: *shouting* "blix, can you get down here?
+B: *heard*, *stand and goes down*
+B: what is it mom?
+M: can you go upstairs and get the alcohol there?
+B: *nods* all right, i'm gonna get it real quick then
+B: *go upstairs*
+B: *finds the alcohol everywhere in 2nd floor*
+B: *scratches head* "alcohol wasnt there"
+B: Goes downstairs
+B: "Where is the alcohol placed btw mom?"?
+M: "It's somewhere in the white cabinet"
+M: "All right"
+B: Goes upstairs once again"
+B: *Finding the alcohol*
+B: *Goes back again*
+B: "Mom, there is no alcohol there in the white cabinet"
+M: It was there
+B: Go see it with your eyes then, come upstairs
+M: *sees the white cabinet*
+M: Alcohol appears, here
+B: "what? it wasnt there when i checked it"
+M: "it's because you're always on that damn computer"
+B: Scratches head witf music fail sfx
+
+

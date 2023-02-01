@@ -1,0 +1,1 @@
+move the "96python" to desktop before utilizing
